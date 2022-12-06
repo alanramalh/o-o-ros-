@@ -2,7 +2,17 @@ body {
     backgroud-color: #CCCCCC
 }
 
-#banner {
+#banner1 {
+    width: 50%;
+    text-align: right;
+}
+
+#banner2 {
+    width: 50%;
+    text-align: right;
+}
+
+#banner3 {
     width: 50%;
     text-align: right;
 }
