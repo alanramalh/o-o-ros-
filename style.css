@@ -32,3 +32,16 @@ p {
 em strong {
     color: #FF0000;
 }
+#neymar { 
+    color: blue;
+    tex-aling: left; 
+} 
+
+#jogador {
+    color:  rgb(158,108,15); 
+    text-align: ringht;  
+}
+
+#melhor {
+    color: red; 
+}
