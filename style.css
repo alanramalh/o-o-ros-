@@ -1,5 +1,5 @@
 body {
-    backgroud-color: #CCCCCC
+    backgroud-color: yellow;
 }
 
 #banner1 {
@@ -34,12 +34,12 @@ em strong {
 }
 #neymar { 
     color: blue;
-    tex-aling: left; 
+    tex-align: left; 
 } 
 
 #jogador {
     color:  rgb(158,108,15); 
-    text-align: ringht;  
+    text-align: right;  
 }
 
 #melhor {
